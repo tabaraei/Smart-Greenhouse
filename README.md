@@ -45,7 +45,7 @@ This project uses an "Arduino UNO" and "Wemos D1 mini" as hardware cores.
 Upcoming folders contain certain files & headers used for each microcontroller.
 You can see schematics in following picture:
 
-### Note: "Wemos D1 mini" connects to a router to access internet. Do not forget to set SSID & Password of your modem in following file: "Embedded Hardware Core/wemos/wifi.h"
+#### Note: "Wemos D1 mini" connects to a router to access internet. Do not forget to set SSID & Password of your modem in following file: "Embedded Hardware Core/wemos/wifi.h"
 
 
 # 3- Server
