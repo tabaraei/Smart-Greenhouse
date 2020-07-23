@@ -1,5 +1,10 @@
 # Smart Greenhouse
 This is an IOT project which aims to track greenhouse status, in addition to "Automatic" &amp; "Manual" irrigation.
+### Features of project:
+- Track & controll hardware via: Application - Telegram Bot - Message Text (SMS)
+- Log files into SD-Card
+- Show received message and its command on a 2*16 Character LCD
+- DeepSleep on Arduino for lower power consumption
 
 
 ## 1- Application
