@@ -29,9 +29,22 @@ A few resources to get you started if this is your first Flutter project:
 
 
 # 2- Embedded Hardware Core
-This project uses an "Arduino UNO" and "Wemos D1 mini" as hardware core.
+This project uses an "Arduino UNO" and "Wemos D1 mini" as hardware cores.
+### Following components are used in the project:
+- Arduino Uno
+- Wemos D1 mini
+- GSM SIM808
+- DHT11 Module (Temperature & Humidity Sensor)
+- YL69 Module (Soil Moisture Sensor)
+- Relay 5v, 1 channel
+- SD-Card shield
+- LCD char 2*16
+- Voltage Convertor
+- 9v Battery, Regulator, Resistors and more ...
+
 Upcoming folders contain certain files & headers used for each microcontroller.
-You can see schematics in following pictures:
+You can see schematics in following picture:
+
 ### Note:
 "Wemos D1 mini" connects to a router to access internet. Do not forget to set SSID & Password of your modem in following file:
 "Embedded Hardware Core/wemos/wifi.h"
