@@ -1,5 +1,8 @@
 # Smart Greenhouse
 This is an IOT project which aims to track greenhouse status, in addition to "Automatic" &amp; "Manual" irrigation.
+
+![Greenhouse](https://user-images.githubusercontent.com/36487462/88303673-8c02e600-cd1c-11ea-8a81-e80c614b7301.jpg)
+
 ### Features of project:
 - Track & controll hardware via: Application - Telegram Bot - Message Text (SMS)
 - Log files into SD-Card
