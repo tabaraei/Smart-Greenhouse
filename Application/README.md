@@ -12,6 +12,6 @@ For help getting started with Flutter, checkout
 samples, guidance on mobile development, and a full API reference.
 
 A few resources to get you started if this is your first Flutter project:
-- [My online course on YouTube (In Persian)](https://www.youtube.com/watch?v=gMvpTVj7joM&list=PLdSCNgAdv3IHaUmmwp__qvji8k-FyKvo3)
+- [My online YouTube course (In Persian)](https://www.youtube.com/watch?v=gMvpTVj7joM&list=PLdSCNgAdv3IHaUmmwp__qvji8k-FyKvo3)
 - [Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Useful Flutter samples](https://flutter.dev/docs/cookbook)
