@@ -45,9 +45,7 @@ This project uses an "Arduino UNO" and "Wemos D1 mini" as hardware cores.
 Upcoming folders contain certain files & headers used for each microcontroller.
 You can see schematics in following picture:
 
-### Note:
-"Wemos D1 mini" connects to a router to access internet. Do not forget to set SSID & Password of your modem in following file:
-"Embedded Hardware Core/wemos/wifi.h"
+### Note: "Wemos D1 mini" connects to a router to access internet. Do not forget to set SSID & Password of your modem in following file: "Embedded Hardware Core/wemos/wifi.h"
 
 
 # 3- Server
@@ -65,9 +63,7 @@ This folder contains files for database and backend, using Python & Django frame
 - type ".\venv\Scripts\activate" in CMD
 - type "py manage.py runserver 192.168.1.102:8000" in CMD
 
-### Note:
-"192.168.1.102" is my laptop IP after connecting to router. You can access your own IP by running "ipconfig" in CMD.
-Keep it in mind that all modules and also application are running on this local IP.
+#### Note: "192.168.1.102" is my laptop IP after connecting to router. You can access your own IP by running "ipconfig" in CMD. Keep it in mind that all modules and also application are running on this local IP.
 
 ## Python Telegram Bot Server
 This folder contains API for Telegram Bot, using Python.
