@@ -1,10 +1,10 @@
 # Smart Greenhouse
 This application is made with ❤ by using "Flutter" framework!
-
 The application consists different pages to track sensors, irrigate manually and also set a threshold for automatic irrigation.
 
 
 ![Design](https://user-images.githubusercontent.com/36487462/88291030-e136fb80-cd0c-11ea-91bb-50e71eb7918a.jpg)
+
 
 ## How to use application
 For help getting started with Flutter, checkout
