@@ -20,6 +20,14 @@ A few resources to get you started if this is your first Flutter project:
 - [Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 
+# Embedded Hardware Core
+This project uses an "Arduino UNO" and "Wemos D1 mini" as hardware core.
+Upcoming folders contain certain files & headers used for each microcontroller.
+You can see schematics in following pictures:
+
+
+
+# Server
 
 ## Local Server:
 This "Django Local Server" contains files for database and backend, using Python & Django framework.
