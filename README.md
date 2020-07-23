@@ -14,12 +14,10 @@ The application consists different pages to track sensors, irrigate manually and
 For help getting started with Flutter, checkout
 [Flutter Documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
 A few resources to get you started if this is your first Flutter project:
 - [My online YouTube course (In Persian)](https://www.youtube.com/watch?v=gMvpTVj7joM&list=PLdSCNgAdv3IHaUmmwp__qvji8k-FyKvo3)
 - [Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
 
 
 
