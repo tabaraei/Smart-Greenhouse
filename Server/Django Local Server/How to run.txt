@@ -1,0 +1,2 @@
+.\venv\Scripts\activate
+py manage.py runserver 192.168.1.102:8000
