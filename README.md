@@ -14,8 +14,7 @@ This is an IOT project which aims to track greenhouse status, in addition to "Au
 This application is made with ❤ by using "Flutter" framework, using "Bloc" architecture!
 The application consists different pages to track sensors, irrigate manually and also set a threshold for automatic irrigation.
 
-
-![Design](https://user-images.githubusercontent.com/36487462/88291030-e136fb80-cd0c-11ea-91bb-50e71eb7918a.jpg)
+![Smart](https://user-images.githubusercontent.com/36487462/105383805-c2b3ad80-5c26-11eb-924e-4a2fe9f52274.png)
 
 
 ### How to use application
